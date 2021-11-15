@@ -1,0 +1,22 @@
+{
+  "pattern": [
+    " D ",
+    "POP",
+    "POP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "vene:wand_edit"
+  },
+  "type": "minecraft:crafting_shaped"
+}

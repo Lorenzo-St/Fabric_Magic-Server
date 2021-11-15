@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "side": "lint:block/dungeon_bricks",
+    "top": "lint:block/dungeon_bricks",
+    "bottom": "lint:block/dungeon_bricks"
+  },
+  "elements": []
+}

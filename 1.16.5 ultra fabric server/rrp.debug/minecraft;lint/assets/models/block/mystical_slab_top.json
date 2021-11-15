@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "side": "lint:block/mystical_planks",
+    "top": "lint:block/mystical_planks",
+    "bottom": "lint:block/mystical_planks"
+  },
+  "elements": []
+}

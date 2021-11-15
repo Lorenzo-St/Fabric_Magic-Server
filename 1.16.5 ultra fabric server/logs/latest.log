@@ -1,0 +1,50 @@
+[10:16:16] [User Authenticator #1/INFO]: UUID of player Strea__ is b50109f4-2ada-4770-b42c-0f37a7d8d20b
+[10:16:17] [Server thread/INFO]: Strea__[/74.82.241.52:52777] logged in with entity id 238 at (-263.4625636699095, 63.0, -223.95846519837102)
+[10:16:17] [Server thread/INFO]: [Requiem] Synchronizing data for requiem:dialogue_manager (ReloadableDialogueRegistry{dialogues=[requiem:remnant_choice], actions=[requiem:become_wandering_spirit, requiem:stay_mortal, requiem:become_remnant]})
+[10:16:17] [Server thread/INFO]: [Requiem] Synchronizing data for requiem:movement_alterer (MovementAltererManager{entityMovementConfigs=[entity.minecraft.tropical_fish, entity.biomemakeover.lightning_bug, entity.minecraft.drowned, entity.biomemakeover.owl, entity.minecraft.salmon, entity.minecraft.magma_cube, entity.minecraft.phantom, entity.biomemakeover.blightbat, entity.minecraft.bat, entity.minecraft.blaze, entity.biomemakeover.giant_slime, entity.bewitchment.owl, entity.minecraft.pufferfish, entity.minecraft.ghast, entity.minecraft.slime, entity.minecraft.parrot, entity.biomemakeover.lightning_bug_alternate, entity.minecraft.chicken, entity.biomemakeover.ghost, entity.minecraft.squid, entity.minecraft.guardian, entity.bewitchment.ghost, entity.minecraft.rabbit, entity.bewitchment.raven, entity.minecraft.wither, entity.minecraft.dolphin, entity.minecraft.bee, entity.minecraft.cod, entity.minecraft.vex, entity.minecraft.snow_golem, entity.minecraft.iron_golem, entity.biomemakeover.moth, entity.biomemakeover.tadpole, entity.minecraft.ender_dragon, entity.minecraft.spider, entity.minecraft.elder_guardian, entity.minecraft.cave_spider]})
+[10:16:17] [Server thread/INFO]: Strea__ joined the game
+[10:16:17] [Server thread/INFO]: Sending config to Strea__ (b50109f4-2ada-4770-b42c-0f37a7d8d20b)
+[10:16:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
+[10:18:36] [Server thread/INFO]: [STDOUT]: check
+[10:19:02] [Server thread/INFO]: Strea__ has made the advancement [Sweet Dreams]
+[10:19:06] [Server thread/INFO]: <Strea__> wwwwwwww
+[10:19:22] [Server thread/INFO]: [STDOUT]: check
+[10:19:43] [Server thread/INFO]: [STDOUT]: Yeet loot
+[10:19:44] [Server thread/INFO]: [STDOUT]: check
+[10:20:10] [Server thread/INFO]: Strea__ has made the advancement [Stone Age]
+[10:20:23] [Server thread/INFO]: Strea__ has made the advancement [Getting an Upgrade]
+[10:23:25] [Server thread/INFO]: [STDOUT]: check
+[10:24:01] [Server thread/INFO]: [STDOUT]: check
+[10:24:28] [Server thread/INFO]: Villager class_1646['Ieshah'/1622, l='ServerLevel[world]', x=-374.57, y=51.00, z=-354.30] died, message: 'Ieshah was slain by Zombie'
+[10:24:35] [Server thread/INFO]: [STDOUT]: check
+[10:25:22] [Server thread/INFO]: [STDOUT]: check
+[10:26:31] [Server thread/INFO]: [STDOUT]: check
+[10:26:40] [Server thread/INFO]: Villager class_1646['Hedvick'/2012, l='ServerLevel[world]', x=-516.04, y=33.77, z=-179.46] died, message: 'Hedvick was slain by Zombie'
+[10:27:10] [Server thread/INFO]: [STDOUT]: check
+[10:27:24] [Server thread/INFO]: [STDOUT]: check
+[10:27:24] [Server thread/INFO]: [STDOUT]: check
+[10:27:53] [Server thread/INFO]: [STDOUT]: check
+[10:32:55] [Server thread/INFO]: [STDOUT]: check
+[10:34:07] [Server thread/INFO]: [STDOUT]: check
+[10:34:57] [Server thread/INFO]: [STDOUT]: check
+[10:35:07] [Server thread/INFO]: [STDOUT]: Yeet loot
+[10:35:33] [Server thread/INFO]: [STDOUT]: check
+[10:35:44] [Server thread/INFO]: [STDOUT]: check
+[10:36:34] [Server thread/INFO]: [STDOUT]: check
+[10:36:50] [Server thread/INFO]: [STDOUT]: check
+[10:37:29] [Server thread/INFO]: [STDOUT]: check
+[10:38:25] [Server thread/INFO]: [STDOUT]: check
+[10:39:51] [Server thread/INFO]: [STDOUT]: check
+[10:41:15] [Server thread/INFO]: [STDOUT]: Yeet loot
+[10:42:14] [Server thread/INFO]: [STDOUT]: check
+[10:42:40] [Server thread/INFO]: [Strea__: Set own game mode to Spectator Mode]
+[10:43:55] [Server thread/INFO]: [Strea__: Set own game mode to Survival Mode]
+[10:45:05] [Server thread/INFO]: [STDOUT]: check
+[10:45:43] [Server thread/INFO]: [STDOUT]: check
+[10:46:16] [Server thread/INFO]: [STDOUT]: check
+[10:47:20] [Server thread/INFO]: [STDOUT]: check
+[10:48:46] [Server thread/INFO]: [STDOUT]: check
+[10:49:42] [Server thread/INFO]: [STDOUT]: check
+[10:50:41] [Server thread/INFO]: [STDOUT]: check
+[10:50:46] [Server thread/INFO]: Strea__ lost connection: Disconnected
+[10:50:46] [Server thread/INFO]: Strea__ left the game

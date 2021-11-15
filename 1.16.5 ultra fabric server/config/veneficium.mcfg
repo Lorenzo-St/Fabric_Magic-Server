@@ -1,0 +1,22 @@
+//Debugging - This will enable output of development debug messages
+enableDevMessages=false
+
+//Debugging - This will generate a massive amount of debug output that traces the actions taken by every spell every tick, requires enableDevMessages
+spellQueueTraceback=false
+
+//Debugging - This will dump all runtime generated assets (including loot tables, recipes, and lang files) to rrp.debug/vene;rrp
+dumpRuntimeGeneratedAssets=false
+
+//Allows explosions to create materials (Can be powerful tool for griefing)
+//Note that this doesn't disable "Create Material"
+explosionsCreateMaterials=true
+
+//Delay until wands can be used again after casting (in ticks)
+wandCastDelay=40
+
+//Delay until magic crossbows can be used again after casting (in ticks)
+crossbowCastDelay=60
+
+//Delay until infused sticks can be used again after casting (in ticks)
+infusedStickCastDelay=40
+

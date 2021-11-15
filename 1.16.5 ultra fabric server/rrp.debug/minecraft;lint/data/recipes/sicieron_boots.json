@@ -1,0 +1,15 @@
+{
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:sicieron_ingot"
+    }
+  },
+  "result": {
+    "item": "lint:sicieron_boots"
+  },
+  "type": "minecraft:crafting_shaped"
+}

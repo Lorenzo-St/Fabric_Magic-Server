@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    "OOO",
+    " Q ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "vene:sccs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    "PPP",
+    "PIP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "I": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "item": "vene:empty_component"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    " PS",
+    " S ",
+    "SP "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vene:infused_stick"
+  },
+  "type": "minecraft:crafting_shaped"
+}

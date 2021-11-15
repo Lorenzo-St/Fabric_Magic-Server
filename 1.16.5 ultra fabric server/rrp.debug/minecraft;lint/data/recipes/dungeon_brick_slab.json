@@ -1,0 +1,15 @@
+{
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:dungeon_bricks"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "lint:dungeon_brick_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

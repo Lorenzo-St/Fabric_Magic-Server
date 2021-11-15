@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    "##",
+    "/ ",
+    "/ "
+  ],
+  "key": {
+    "#": {
+      "item": "lint:hardened_jurel_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lint:jurel_hoe"
+  },
+  "type": "minecraft:crafting_shaped"
+}

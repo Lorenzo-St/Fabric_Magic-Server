@@ -1,0 +1,22 @@
+{
+  "pattern": [
+    " BC",
+    " PB",
+    "P  "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "vene:magic_binding"
+    },
+    "C": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "vene:wand"
+  },
+  "type": "minecraft:crafting_shaped"
+}

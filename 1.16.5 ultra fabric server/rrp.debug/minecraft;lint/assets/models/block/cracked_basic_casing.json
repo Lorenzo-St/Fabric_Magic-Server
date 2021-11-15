@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lint:block/cracked_basic_casing"
+  },
+  "elements": []
+}

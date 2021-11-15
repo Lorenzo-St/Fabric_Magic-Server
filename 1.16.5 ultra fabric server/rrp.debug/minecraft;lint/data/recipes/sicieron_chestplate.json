@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:sicieron_ingot"
+    }
+  },
+  "result": {
+    "item": "lint:sicieron_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

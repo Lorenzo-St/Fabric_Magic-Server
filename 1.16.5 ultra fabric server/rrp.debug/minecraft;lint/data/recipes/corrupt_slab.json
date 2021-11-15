@@ -1,0 +1,15 @@
+{
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:corrupt_planks"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "lint:corrupt_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

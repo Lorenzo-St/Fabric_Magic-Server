@@ -1,0 +1,19 @@
+{
+  "pattern": [
+    "#",
+    "/",
+    "/"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:sicieron_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "lint:sicieron_shovel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

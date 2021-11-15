@@ -1,0 +1,16 @@
+{
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:hardened_jurel_ingot"
+    }
+  },
+  "result": {
+    "item": "lint:jurel_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

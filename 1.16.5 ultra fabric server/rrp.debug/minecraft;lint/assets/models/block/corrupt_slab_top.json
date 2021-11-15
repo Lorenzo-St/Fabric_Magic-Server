@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "side": "lint:block/corrupt_planks",
+    "top": "lint:block/corrupt_planks",
+    "bottom": "lint:block/corrupt_planks"
+  },
+  "elements": []
+}

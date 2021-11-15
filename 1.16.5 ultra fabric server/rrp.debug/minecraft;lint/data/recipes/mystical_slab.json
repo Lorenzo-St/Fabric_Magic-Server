@@ -1,0 +1,15 @@
+{
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lint:mystical_planks"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "lint:mystical_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}

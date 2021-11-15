@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "lint:block/generic_blue_flower_top"
+    },
+    "half=lower": {
+      "model": "lint:block/generic_blue_flower"
+    }
+  }
+}
